@@ -1,0 +1,10 @@
+venv/
+*.db
+*.log
+notification_log.txt
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+node_modules/
+.env
